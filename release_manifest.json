@@ -1,0 +1,17 @@
+{
+  "version": "beta-v0.7",
+  "as_of": "2026-10-25",
+  "stores": 2176,
+  "closed": 66,
+  "published": false,
+  "db_name": "msp-v2-beta-test-20261025",
+  "files": {
+    "app.js": "3354d5bc410bccf7eedf154fa60fc1edd8335f2b9e4b7fe41577aca3055f05ba",
+    "DEPLOY_README.md": "5ec255768209a3b1cd2c58fe69cdd1cea9e957e54de66dae78c7e05d09752b54",
+    "updates.html": "b65962c47d92d5852f81336348d963e53e6a9b6d571465c62c7aca8db028900d",
+    "index.html": "b3fae1372b38c442127b4010cac9b2f627287875024db142ff213f60beb9e80e",
+    "style.css": "48796a7ad4bf11de5619ab1bc199e6d8e1cb2561a716dad7210546fb01a7a3ec",
+    "stores.json": "9d8d93b823fb85024d270d16849ea5d0060a2e685781dd7381e5bf262eba8e88",
+    ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
+}
